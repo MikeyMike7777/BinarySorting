@@ -1,2 +1,3 @@
-# BinarySorting CSI 1440
+# BinarySorting
+CSI 1440
 This program allows the user to add a new integer to a binary file of sorted integers while maintaining the sorted order of the file.
