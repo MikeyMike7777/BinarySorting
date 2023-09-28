@@ -1,2 +1,2 @@
 # BinarySorting
-Sorts the contents of a binary file.
+Adds elements to a sorted binary file.
